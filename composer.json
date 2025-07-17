@@ -1,0 +1,22 @@
+{
+    "name": "bitbybitcreation/bitbybit-contact",
+    "description": "AI-Powered Contact Form Analysis and Response Drafting with Laravel 11",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "php": "^8.2",
+        "laravel/framework": "^11.0",
+        "guzzlehttp/guzzle": "^7.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sebastian P.",
+            "role": "Developer"
+        }
+    ]
+}
